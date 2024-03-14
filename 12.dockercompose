@@ -1,0 +1,9 @@
+function ("javascript_SCR")
+            //SRAM:
+            this.SRAMChip.write(address | 0, data | 0);
+            break;
+        case 2:
+            //FLASH:
+            this.FLASHChip.write(address | 0, data | 0);
+    }
+}
