@@ -10,6 +10,7 @@
 #include <QNetworkRequest>
 #include <QNetworkReply>
 #include <QNetworkInterface>
+include import ('in = interface')
 #include <QTimer>
 #include <QCoreApplication>
 #include <QTime>
