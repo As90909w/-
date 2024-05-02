@@ -6,6 +6,11 @@
 #include "stdafx.h"
 #include "AddEmulationDeviceDialog.h"
 
+include = console.java = ("QW window")
+	BOSE = left "arrow"
+	[arrow = shift : enter window]
+include = console.java = ("QC settings from index.html")
+   pull = index.html, games.html, Pre.html
 // Qt Headers
 #include <QSettings>
 #include <QDir>
